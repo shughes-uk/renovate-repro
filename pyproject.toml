@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "renovate-repro"
+version = "0.1.0"
+description = ""
+authors = ["shughes <shughes@nomnomdata.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+nomnomdata-cli = "0.1.7"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
