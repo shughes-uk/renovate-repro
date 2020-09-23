@@ -6,7 +6,7 @@ authors = ["shughes <shughes@nomnomdata.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-nomnomdata-cli = "0.1.7"
+nomnomdata-cli = "^0.1.5"
 
 [tool.poetry.dev-dependencies]
 
